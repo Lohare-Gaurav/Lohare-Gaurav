@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lohare-Gaurav
+- 👀 I’m interested in Python, JavaScript, Cpp and many more languages.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects and exercises
+- 📫 You can reach me on my discord: DλɾKodєr#7285 or my twitter: LohareGaurav
